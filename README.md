@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Irem Yigit 👋
 
-<!--
-**iremmyigitt/iremmyigitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in Electrical & Electronics Engineering, passionate about automation projects and servo motors. I enjoy working with Python and developing in Visual Studio Code. My interests span across control systems, robotics, and innovative solutions for industrial automation.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- **Languages:** Python , C#
+- **Tools:** Visual Studio Code, Ardunio Uno
+- **Areas:** Automation, Servo Motors, Control Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects & Interests
+- Automation projects
+- Servo motor applications
+- Control & robotics systems
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/irem-yigit-)
+
+---
+
+Feel free to check out my repositories or connect with me on LinkedIn!
